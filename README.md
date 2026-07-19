@@ -19,3 +19,5 @@ In this research, we used T1-weighted magnetization prepared rapid gradient echo
 All models including ResNet-18, standard ViT(Tiny), Pyramid ViT (Tiny), and parallel ResNet-18 & standard ViT(Tiny) were implemented in PVTAD_Project.ipynb <br><br> Run PVTAD_Project.ipynb
 
 In case of any questions please contact:  fsaeed@fiu.edu
+
+Import conda environment
