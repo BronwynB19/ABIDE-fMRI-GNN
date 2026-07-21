@@ -21,3 +21,5 @@ All models including ResNet-18, standard ViT(Tiny), Pyramid ViT (Tiny), and para
 In case of any questions please contact:  fsaeed@fiu.edu
 
 Import conda environment
+
+Running the code will create a new folder of image outputs
